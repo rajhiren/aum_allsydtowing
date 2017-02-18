@@ -10,7 +10,7 @@
                                 </div>
 
                                 <p>
-                                    For all your accident/breakdowns/trade needs in Sydney and surrounds! Call inner West Towing 0423808240 for the cheapest prices and reliable service
+                                    For all your accident/breakdowns/trade needs in Sydney and surrounds! Call All Sydney Towing 0423808240 for the cheapest prices and reliable service
                                 </p>
 
                                 
@@ -42,7 +42,7 @@
                                 </div>
 
                                 <ul>
-                                	<div class="fb-page" height="300px" width="250px" data-href="https://www.facebook.com/653173301411398" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/653173301411398" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/653173301411398">Inner West Towing</a></blockquote></div>
+                                	<div class="fb-page" height="300px" width="250px" data-href="https://www.facebook.com/653173301411398" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/653173301411398" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/653173301411398">All Sydney Towing</a></blockquote></div>
                                    <div id="fb-root" ></div>
 									<script>(function(d, s, id) {
                                       var js, fjs = d.getElementsByTagName(s)[0];
@@ -62,7 +62,7 @@
                                 </div>
 
                                 <address>
-                                    Inner West Towing Pty Ltd,<br>
+                                    All Sydney Towing Pty Ltd,<br>
 									2 East St, Granville,<br>
 									NSW - 2142.<br>
                                                                         

@@ -49,8 +49,8 @@
                         <img class="float-right" src="img/pics/001.jpg" alt="" width="360"/>
 
                         <p>
-                            Inner West Towing is based in Sydney servicing Western Sydney Metro (Local, Country or Interstate), in addition to Towing from SYDNEY to CANBERRA. Our company is highly experienced in the unwanted car removal or tow away, transportation, recovery and storage of vehicles and equipment. We have a number of Towing trucks dedicated to the industry that are regularly maintained. As one of the largest and most respected Towing companies in Sydney, we have established our brand being recognised as most reliable, professional, on-time and affordable. Our customers have come to rely on consistent high level of service they receive from us. <br><br>
-                            All our services are performed by skilled professional operators. Inner West Towing prides itself on being among the very best at what we do and have the equipment, experience and personnel to handle any towing and recovery situation that comes our way.
+                            All Sydney Towing is based in Sydney servicing Western Sydney Metro (Local, Country or Interstate), in addition to Towing from SYDNEY to CANBERRA. Our company is highly experienced in the unwanted car removal or tow away, transportation, recovery and storage of vehicles and equipment. We have a number of Towing trucks dedicated to the industry that are regularly maintained. As one of the largest and most respected Towing companies in Sydney, we have established our brand being recognised as most reliable, professional, on-time and affordable. Our customers have come to rely on consistent high level of service they receive from us. <br><br>
+                            All our services are performed by skilled professional operators. All Sydney Towing prides itself on being among the very best at what we do and have the equipment, experience and personnel to handle any towing and recovery situation that comes our way.
                         </p>
 
                         <br/>

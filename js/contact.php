@@ -111,7 +111,7 @@
                         </div><!-- .custom-heading end -->
 
                         <address>
-                            Inner West Towing Pty Ltd,<br>
+                            All Sydney Towing Pty Ltd,<br>
 							2 East St, Granville<br>
                             NSW - 2142 <br />
                             

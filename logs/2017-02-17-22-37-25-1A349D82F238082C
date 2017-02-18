@@ -1,1 +1,0 @@
-8a49e743c6c1080347539e4782bca3dad1854d472f32a418e3094670dcaeacba allsydneytowing.com.au [17/Feb/2017:21:11:50 +0000] 210.185.106.159 - E31CAA38ED3AE54F REST.GET.BUCKET - "GET /?max-keys=1000&prefix&delimiter=%2F HTTP/1.1" 400 AuthorizationHeaderMalformed 365 - 7 - "-" "Cyberduck/5.2.2.21483 (Mac OS X/10.12.3) (x86_64)" -

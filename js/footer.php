@@ -13,7 +13,7 @@
                                     For all your accident/breakdowns/trade needs in Sydney and surrounds! Call All Sydney Towing 0423808240 for the cheapest prices and reliable service
                                 </p>
 
-                                
+
                             </li><!-- .widget.widget_newsletterwidget end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
 
@@ -29,7 +29,7 @@
                                     <li><a href="about.php">About us</a></li>
                                     <li><a href="services.php">Services</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
-                                    
+
                                 </ul>
                             </li><!-- .widget-pages end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
@@ -63,13 +63,13 @@
 
                                 <address>
                                     All Sydney Towing Pty Ltd,<br>
-									2 East St, Granville,<br>
-									NSW - 2142.<br>
-                                                                        
+									3/86 falconer st, West Ryde,<br>
+									NSW - 2144.<br>
+
                                 </address>
 
                                 <span class="text-big">
-                                    0423 808 240 
+                                    0423 808 240
                                 </span>
                                 <br />
 
@@ -105,14 +105,14 @@
 
         <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
         <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
-        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->  
+        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
         <script src="owl-carousel/owl.carousel.min.js"></script><!-- Carousels script -->
         <script src="masterslider/masterslider.min.js"></script><!-- Master slider main js -->
         <script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
         <script src="js/include.js"></script><!-- custom js functions -->
 		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script> <!-- google maps -->
        	<script src="js/jquery.ui.map.full.min.js"></script><!-- google maps -->
-        
+
         <script>
             /* <![CDATA[ */
             jQuery(document).ready(function ($) {
@@ -204,7 +204,7 @@
 
             });
             /* ]]> */
-        
+
             /* <![CDATA[ */
             jQuery(document).ready(function ($) {
                 'use strict';

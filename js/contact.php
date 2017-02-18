@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
     <?php include("head.php");?>
-	
+
     <body>
         <?php include("header.php");?><!-- .header-wrapper end -->
 
@@ -112,9 +112,9 @@
 
                         <address>
                             All Sydney Towing Pty Ltd,<br>
-							2 East St, Granville<br>
+							3/86 falconer st, West Ryde<br>
                             NSW - 2142 <br />
-                            
+
                         </address>
 
                         <span class="text-big colored">
@@ -130,6 +130,6 @@
 
        <?php include("footer.php");?> <!-- #footer-wrapper end -->
 
-      
+
     </body>
 </html>

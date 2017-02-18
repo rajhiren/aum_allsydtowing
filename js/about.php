@@ -90,7 +90,7 @@
                                 </div>                              
                                     <span>
                                         
-                                          <p><i> Inner west towing has the best friendly and polite staff, i had great experience with them on two different occasions. i find them reliable and right on time.
+                                          <p><i> All Sydney Towing has the best friendly and polite staff, i had great experience with them on two different occasions. i find them reliable and right on time.
 -Mr. Hiren Raj</i></p>
                                     </span>
                                 
@@ -111,8 +111,8 @@
                         <img class="float-right" src="img/pics/002.jpg" alt="" width="360"/>
 
                         <p>
-                            For all your accident/breakdowns/trade needs in Sydney and surrounds! Call inner West Towing 0423808240 for the cheapest prices and reliable service <br><br>
-                            Inner West Towing provides a wide range of towing services such as accidents, private/trade and breakdowns. Our tilt tray drivers specialise in prestige/lowered vehicle transports, insurance and salvage, repossession & fleet in Sydney and surrounding suburbs.
+                            For all your accident/breakdowns/trade needs in Sydney and surrounds! Call All Sydney Towing 0423808240 for the cheapest prices and reliable service <br><br>
+                            All Sydney Towing provides a wide range of towing services such as accidents, private/trade and breakdowns. Our tilt tray drivers specialise in prestige/lowered vehicle transports, insurance and salvage, repossession & fleet in Sydney and surrounding suburbs.
                         </p>
 
                         <br />

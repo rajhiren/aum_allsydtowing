@@ -89,7 +89,7 @@
                                     <h3>Testimonial</h3>
                                 </div>                                                           
                                     <span>                                        
-                                          <p><i> Inner west towing has the best friendly and polite staff, i had great experience with them on two different occasions. i find them reliable and right on time.
+                                          <p><i> All Sydney Towing has the best friendly and polite staff, i had great experience with them on two different occasions. i find them reliable and right on time.
 -Mr. Hiren Raj</i></p>
                                     </span>
                                 

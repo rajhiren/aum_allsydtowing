@@ -122,7 +122,7 @@
                         </span>
                         <br />
 
-                        <a href="mailto:">francis.tannous@hotmail.com</a>
+                        <a href="mailto:">allsydneytowing@yahoo.com.au</a>
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->

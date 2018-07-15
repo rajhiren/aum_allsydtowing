@@ -32,7 +32,7 @@
 .tracking .submit,
 .pi-latest-posts02 .post-date .month,
 .shipping-quote .submit{  
-  background-color: #006db7;
+  background-color: #72603a;
 }
 
 .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus,
@@ -64,17 +64,17 @@ a.download-link:hover span,
 .custom-bkg.dark a:hover,
 .custom-bkg.dark a:hover span,
 .custom-bkg.dark a:hover i{
-    color: #006db7;
+    color: #72603a;
 }
 
 .header-style01 .navbar-default .navbar-nav>li>a:hover,
 .header-style01 .nav > li.current-menu-item > a{
-    border-color: #006db7;
+    border-color: #72603a;
 }
 
 .dropdown .dropdown-menu .dropdown-submenu > a:hover:after,
 blockquote{
-    border-left-color: #006db7;
+    border-left-color: #72603a;
 }
 
 /* Lighter base 01 */

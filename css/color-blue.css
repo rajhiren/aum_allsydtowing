@@ -48,7 +48,7 @@
 .master-slider .pi-button:hover,
 .master-slider .tooltip h6::after,
 .ms-skin-default .ms-tooltip-point .ms-point-center{  
-  background-color: #006db7;
+  background-color: #72603a;
 }
 
 .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus,
@@ -88,7 +88,7 @@ a.download-link:hover span,
 .accordion .title::before,
 .pi-latest-posts03 li .post-media i,
 .news-carousel-container .icon-title i{
-    color: #006db7;
+    color: #72603a;
 }
 
 .header-style01 .navbar-default .navbar-nav>li>a:hover,
@@ -96,12 +96,12 @@ a.download-link:hover span,
 .hover-mask-container .hover-details span,
 .hover-mask-container .hover-zoom,
 .master-slider .pi-button{
-    border-color: #006db7;
+    border-color: #72603a;
 }
 
 .dropdown .dropdown-menu .dropdown-submenu > a:hover:after,
 blockquote{
-    border-left-color: #006db7;
+    border-left-color: #72603a;
 }
 
 /* Lighter base 01 */
@@ -118,6 +118,6 @@ blockquote{
 
 
 .icon-container .st1{
-    fill: #006db7;
+    fill: #72603a;
 }
 
